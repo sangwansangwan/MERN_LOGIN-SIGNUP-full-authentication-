@@ -73,7 +73,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 **Sign In**
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="YcSyon1"><a href="//imgur.com/YcSyon1">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src="https://imgur.com/xceWchF">
 
 **Password Recovery Page**
