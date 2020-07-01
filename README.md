@@ -56,14 +56,6 @@ Your app is ready to be deployed!
 
 
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-
-
 ## Image Gallery
 
 
@@ -80,3 +72,14 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 <img src="https://i.imgur.com/ab7L1xS.png">
 
+
+
+
+
+
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
