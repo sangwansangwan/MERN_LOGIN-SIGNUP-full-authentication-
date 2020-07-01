@@ -28,7 +28,7 @@ A project designed with MERN stack, with minimalist ready-to-launch component fo
 Clone the repository
 
 ```
- https://github.com/sangwansangwan/mern-login-signup-component.git
+ https://github.com/sangwansangwan/MERN_LOGIN-SIGNUP-full-authentication-.git
 ```
 
 
