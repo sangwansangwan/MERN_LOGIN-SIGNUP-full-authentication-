@@ -11,7 +11,7 @@
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.10",
+    "mongoose": "^5.13.15",
     "nodemailer": "^6.4.6",
     "nodemon": "^2.0.3",
     "random-number": "0.0.9",
